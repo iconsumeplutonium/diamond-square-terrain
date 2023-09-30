@@ -1,6 +1,6 @@
 
 # Diamond-Square Terrain Generator
-#### Procedurally generates terrain using the [Diamond-Square algorithm](https://en.wikipedia.org/wiki/Diamond-square_algorithm)
+Procedurally generates terrain using the [Diamond-Square algorithm](https://en.wikipedia.org/wiki/Diamond-square_algorithm)
 
 
 #### Prerequisites
